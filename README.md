@@ -15,4 +15,4 @@ This website uses [TMDB](https://www.themoviedb.org/?language=en-US) (The Movie 
 ## Tableau
 [Dashboard Link](https://public.tableau.com/app/profile/michael.raibon/viz/HorrorMovies_17103826375570/HorrorMovieAnalysis)
 
-![image](https://github.com/mraibon/Horror-Movies/blob/main/Tableau%20-%20Horror%20Movie%20Analysis.png?raw=true)
+![image](https://github.com/mraibon/Horror-Movies/blob/db4690234a0e6df425fd8343f9303d2042b6a178/Tableau%20-%20Horror%20Movie%20Analysis.png)
